@@ -11,14 +11,32 @@
 **Содержание:**
 - [Введение в Git](./lessons/sem_00/lesson_01/);
 - [Структура языка. Логический тип данных](./lessons/sem_00/lesson_02/);
+- [Числа и функции](./lessons/sem_00/lesson_03/);
+- [Последовательности: списки и кортежи](./lessons/sem_00/lesson_04/);
+- [Последовательности: строки](./lessons/sem_00/lesson_05/);
+
+**Контесты:**
+- [Числа и функции](https://contest.yandex.ru/contest/67077/enter/?retPage=);
+- [Списки и кортежи](https://contest.yandex.ru/contest/67095/enter/?retPage=);
+- [Строки](https://contest.yandex.ru/contest/67162/enter/?retPage=);
 
 ## Осенний семестр
 
 Эта часть курса посвящена знакомству с языком Python, его основам и базовым концепциям. 
 
 **Содержание:**
+- [Вводное занятие](./lessons/sem_01/lesson_01/);
+- [Функции](./lessons/sem_01/lesson_02/);
+- [Декораторы](./lessons/sem_01/lesson_03/);
+- [Классы](./lessons/sem_01/lesson_04/);
+- [Объектно-ориентированное программирование на Python](./lessons/sem_01/lesson_05/);
+- [Исключения](./lessons/sem_01/lesson_06/);
+- [Модули](./lessons/sem_01/lesson_07/);
+- [Числовые протоколы](./lessons/sem_01/lesson_08/);
+- [Коллекции и их протоколы](./lessons/sem_01/lesson_09/);
 
 **Домашние работы:**
+- [Дамашнее задание 1](./homeworks/sem_01/hw1/);
 
 ## Весенний семестр
 
